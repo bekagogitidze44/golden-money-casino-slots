@@ -1,0 +1,60 @@
+{
+	"short_name": "Golden Money Casino Slots",
+	"name": "Golden Money Casino Slots",
+	"theme_color": "#000000",
+	"background_color": "#000000",
+	"display": "standalone",
+	"description": "Experience the thrill of virtual slots with Golden Money Slots. This mobile game app for Android delivers the excitement of casino gaming without real money stakes. Spin the reels, enjoy diverse slot games, and chase virtual jackpots—all in the palm of your hand. It's free, entertaining, and it's your ticket to a captivating mobile casino experience. Download now and let the reels spin!",
+	"icons": [
+		{
+			"src": "/assets/img/favicons/favicon36.png",
+			"sizes": "36x36",
+			"type": "image/png",
+			"density": 0.75
+		},
+		{
+			"src": "/assets/img/favicons/favicon48.png",
+			"type": "image/png",
+			"sizes": "48x48",
+			"density": 1
+		},
+		{
+			"src": "/assets/img/favicons/favicon72.png",
+			"sizes": "72x72",
+			"type": "image/png",
+			"density": 1.5
+		},
+		{
+			"src": "/assets/img/favicons/favicon96.png",
+			"type": "image/png",
+			"sizes": "96x96",
+			"density": 2
+		},
+		{
+			"src": "/assets/img/favicons/favicon144.png",
+			"type": "image/png",
+			"sizes": "144x144",
+			"density": 3
+		},
+		{
+			"src": "/assets/img/favicons/favicon192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"density": 4
+		},
+		{
+			"src": "/assets/img/favicons/favicon512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"prefer_related_applications": true,
+	"related_applications": [
+		{
+			"platform": "play",
+			"url": "https://play.google.com/store/apps/details?id=online.GoldenMoneyCasinoSlots.game&referrer=utm_source%3Dwebsite%26utm_medium%3Dmanifest%26utm_campaign%3Dpwa%26utm_term%3Dmoney+slots",
+			"id": "online.GoldenMoneyCasinoSlots.game"
+		}
+	],
+	"start_url": "/"
+}
