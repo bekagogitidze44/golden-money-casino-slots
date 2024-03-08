@@ -3,8 +3,11 @@ Dive into the luxurious world of Golden Money Casino Slots on your Android devic
 
 🎰 Android App:
 https://play.google.com/store/apps/details?id=online.GoldenMoneyCasinoSlots.game
+
 🔗 Website:
 https://golden-money-casino-slots.online
+
+![Golden Money Casino Slots](./assets/img/game-screenshots/play-money-slots.jpg "Golden Money Casino Slots")
 
 In the ever-evolving landscape of mobile gaming, slots emerges as a prominent player, offering a captivating blend of excitement, innovation, and the allure of virtual casino thrills. This Android-based free casino slots app brings the magic of Las Vegas directly to the palm of your hand, promising an immersive experience without the need for real money stakes.
 
