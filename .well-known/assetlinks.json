@@ -1,0 +1,13 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target":
+		{
+			"namespace": "android_app",
+			"package_name": "online.GoldenMoneyCasinoSlots.game",
+			"sha256_cert_fingerprints": [
+				"4F:89:BA:F6:B4:D6:82:0A:DE:A0:AB:79:2B:73:C2:23:23:91:5D:76:4A:52:6C:BB:66:22:ED:55:22:F9:8D:D1"
+			]
+		}
+	}
+]
